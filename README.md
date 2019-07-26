@@ -6,8 +6,8 @@ This resume is a reimplementation of  [gonsie/cthulu-resume](https://github.com/
 
 Install the following 2 files into an existing Jekyll project.
 
-- `resume.md`: This markdown document of the resume.
-- `_layouts/resume.html`: This file includes CSS styles for the resume. It should be placed in the `_layouts` directory of your project.
+- `resume.md`: Markdown resume. See details below for formatting.
+- `_layouts/resume.html`: This file includes CSS styles for the resume.
 
 ## Resume Markup
 
